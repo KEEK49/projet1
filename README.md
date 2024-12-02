@@ -1,21 +1,26 @@
 # projet1 : TOYS & MODELS
 
 ## DEMANDE DU CLIENT
-Le client demande de créer un dashboard au client afin qu'il ait une
-visibilité de ses KPI concernant les ventes, la logoistique, la RH et
-la finance 
 
-## PROBLEMATIQUE
-NE PAS UTILISER SQL
-Réaliser un dashboard evolutif sur les differents KPI
+Le client souhaite la création d'un tableau de bord (dashboard) afin de visualiser 
+et suivre ses indicateurs clés de performance (KPI) dans les domaines suivants :
+ventes, logistique, ressources humaines (RH) et finance.
 
-## MOYEN FOURNI
-utilisationn de la base de données
-utilisation de Power bI
+## PROBLÉMATIQUE
+
+Créer un tableau de bord évolutif permettant de suivre les différents KPI,
+tout en respectant la contrainte de ne pas utiliser SQL.
+
+## MOYENS MIS À DISPOSITION
+
+Base de données fournie par le client
+Utilisation de Power BI pour la conception du dashboard
 
 ## CONCLUSION
-dashboard réalisé avec propostion d'amélioration des perspectives
-    - étude de marché
-    - étude sur les objectifs sales managers
-    - études sur la gestions des stocks 
-    - dévellopper la concurrence sur d'autre régions
+
+Un tableau de bord a été conçu, accompagné de propositions d'améliorations stratégiques, notamment :
+-Analyse des perspectives de croissance
+-Étude de marché
+-Analyse des objectifs des responsables commerciaux (sales managers)
+-Étude de la gestion des stocks
+-Développement de la présence concurrentielle dans d'autres régions
